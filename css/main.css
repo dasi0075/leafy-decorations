@@ -35,6 +35,8 @@ html {
   background-image: url("../images/banner.jpg");
   border-bottom: 3px solid rgba(16, 52, 41, .8);
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .banner-content {
