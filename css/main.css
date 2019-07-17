@@ -56,7 +56,8 @@ html {
 @media only screen and (min-width: 38em) {
 
   .banner-content {
-    padding-top: 16.5em;
+    padding-top: 17em;
+    background-position: .75em 10em;
   }
 
 }
@@ -73,6 +74,11 @@ html {
 
   .banner {
     background-position: bottom;
+  }
+
+  .banner-content {
+    padding-top: 15.5em;
+    background-position: .75em 9.5em;
   }
 
 }
