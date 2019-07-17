@@ -1,7 +1,6 @@
 html {
   font-family: Lora, serif;
   color: #fff;
-  font-weight: bold;
 }
 
 .masthead {
@@ -24,6 +23,7 @@ html {
 .nav a {
   text-decoration: none;
   color: #fff;
+  font-weight: bold;
   border-radius: 8px;
   border: 3px solid #2d5a4d;
   background-color: #467366;
@@ -50,7 +50,7 @@ html {
   background-repeat: no-repeat;
   background-size: 100px;
   background-position: .75em 11.5em;
-  padding-top: 18em;
+  padding-top: 19em;
 }
 
 @media only screen and (min-width: 38em) {
