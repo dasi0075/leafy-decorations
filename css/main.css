@@ -53,6 +53,15 @@ html {
   padding-top: 18em;
 }
 
+@media only screen and (min-width: 38em) {
+
+  .banner-content {
+    padding-top: 16.5em;
+  }
+
+
+}
+
 @media only screen and (min-width: 60em) {
 
   .logo {
