@@ -32,6 +32,9 @@ html {
 .nav a:hover {
   background-image: url("../images/leaf-icon.svg");
   background-repeat: no-repeat;
+  color: #145b1d;
+  background-color: #fff;
+  background-size: 64px;
 }
 
 .banner {
