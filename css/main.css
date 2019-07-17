@@ -29,7 +29,7 @@ background-image: url("../images/banner.jpg");
 }
 
 .banner-content {
-
+  background-image: url("../images/two-leaves.svg")
 }
 
 @media only screen and (min-width: 60em) {
